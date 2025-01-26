@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "43a7689d-26f8-4938-9ecf-e0f2e0d64aeb",
+    "FirstName": "Adis",
+    "LastName": "Adamsson",
+    "Email": "adamsson@domain.com",
+    "PhoneNumber": "123123",
+    "StreetAddress": "123 hej",
+    "PostalCode": "50433",
+    "City": "Boras"
+  },
+  {
+    "Id": "5384fc31-3607-482c-af79-15cf3ce443b2",
+    "FirstName": "Viktor",
+    "LastName": "Svensson",
+    "Email": "viktor.s@domain.com",
+    "PhoneNumber": "112",
+    "StreetAddress": "Enev\u00E4gen 12",
+    "PostalCode": "453 12",
+    "City": "G\u00F6teborg"
+  },
+  {
+    "Id": "a05c725c-db8e-43f3-98df-3d06038dc926",
+    "FirstName": "Daniel Johansson",
+    "LastName": "Arvidsson",
+    "Email": "Dja@domain.com",
+    "PhoneNumber": "072-665 23 23",
+    "StreetAddress": "Testgata 12",
+    "PostalCode": "122 12",
+    "City": "Teststad"
+  },
+  {
+    "Id": "be0776a5-6a2b-48a9-8b08-ea347ff8f911",
+    "FirstName": "Hasse",
+    "LastName": "Banan",
+    "Email": "hasse@domain.com",
+    "PhoneNumber": "45 67 76 1212",
+    "StreetAddress": "Testgata 1212",
+    "PostalCode": "55555",
+    "City": "Staffanstorp"
+  }
+]
